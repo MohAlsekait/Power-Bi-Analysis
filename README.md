@@ -4,9 +4,9 @@ In this repository, you will find different documents. Each document contains an
 
 The skills that would have been seen for this reprosatory:
 
-Data Visualization.
-Power Query.
-Data Cleaning.
-Data Modeling.
-DAX.
-ETL.
+* Data Visualization.
+* Power Query.
+* Data Cleaning.
+* Data Modeling.
+* DAX.
+* ETL.
